@@ -1,0 +1,188 @@
+body{
+    background-color: black;
+}
+
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+h1{
+
+    text-align: center;
+    color: aliceblue;
+}
+
+p{
+
+    color: aliceblue;
+
+}
+
+#p1{
+    color: aliceblue;
+    
+}
+
+img{
+    scale: 100%;
+    min-height: 10px;
+    min-width: 10px;
+    
+    margin: auto;
+}
+
+button{
+
+
+    background-color: black;
+    border-radius: 50%;
+    
+    
+}
+
+
+div{
+    width: 100%;
+    min-width: 5px;
+    margin: auto;
+}
+
+
+button:hover{
+
+    transition-duration: 400ms;
+    scale: 110%;
+
+}
+
+#earth{
+
+    margin-left: 2cm;
+
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center;  
+
+}
+
+#mars{
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center;  
+    
+
+}
+
+#venus{
+
+    margin-right: 2cm;
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center; 
+
+}
+
+#jupiter{
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center; 
+
+}
+
+#saturn{
+
+    
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center; 
+
+}
+
+#neptune{
+
+    
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center; 
+
+}
+
+#uranus{
+
+    margin-top: 3cm;
+
+    margin-left: 2cm;
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center; 
+
+}
+
+#mercury{
+
+    margin-top: 3cm;
+
+    margin-left: 2cm;
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center;  
+
+}
+
+#pluto{
+
+    margin-top: 3cm;
+
+    margin-left: 2cm;
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center;  
+
+}
+
+#moon{
+
+    margin-top: 3cm;
+
+    margin-left: 2cm;
+    margin-right: 2cm;
+
+    display: inline-block;
+
+    color: aliceblue;
+    text-align: center;  
+
+}
